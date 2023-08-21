@@ -36,12 +36,17 @@
 
 <a href="https://kalyani-portfolio.vercel.app/">
 <img src="https://raw.githubusercontent.com/Dev-Shruti/Dev-Shruti/main/1.png" width="70%">
+  <br>
 </a>
 
+ <br>
 <a href="https://dribble-sign-up.vercel.app/">
 <img src="https://raw.githubusercontent.com/Dev-Shruti/Dev-Shruti/main/2.png" width="70%">
+ <br>
 </a>
 
+ 
+ <br>
 <a href="https://linktr.ee/dev_kalyani">
 <img src="https://raw.githubusercontent.com/Dev-Shruti/Dev-Shruti/main/3.png" width="70%">
 </a>
