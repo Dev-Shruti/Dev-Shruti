@@ -1,4 +1,6 @@
-# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝘿𝙚𝙫 𝙎𝙝𝙧𝙪𝙩𝙞
+
+
+# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝘿𝙚𝙫 𝙎𝙝𝙧𝙪𝙩𝙞 
 
 <p align="left">
 <a href="">
@@ -22,19 +24,19 @@
 </p>
 <br>
 
-𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+🌧️ 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕
 
 🌟 𝙎𝙚𝙡𝙛-𝙩𝙝𝙤𝙪𝙜𝙝𝙩 𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓
 
-🖖 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 𝑭𝙖𝙣𝙖𝙩𝙞𝙘𝙨 | 🪄 𝑬𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕 𝑳𝒆𝒂𝒓𝒏𝒆𝒓 | ❄ 𝑭𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝑾𝒊𝒛𝒂𝒓𝒅 | 🎨 𝑾𝒆𝒃 𝑪𝒐𝒎𝒑𝒐𝒏𝒆𝒏𝒕 𝑴𝒂𝒈𝒊𝒄𝒊𝒂𝒏
+🌸 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 𝑭𝙖𝙣𝙖𝙩𝙞𝙘𝙨 | 🪄 𝑬𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕 𝑳𝒆𝒂𝒓𝒏𝒆𝒓 | ❄ 𝑭𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝑾𝒊𝒛𝒂𝒓𝒅 | 🎨 𝑾𝒆𝒃 𝑪𝒐𝒎𝒑𝒐𝒏𝒆𝒏𝒕 𝑴𝒂𝒈𝒊𝒄𝒊𝒂𝒏
 
-:writing_hand: 𝑨𝒔𝒌 𝒎𝒆 𝒂𝒃𝒐𝒖𝒕 𝒂𝒏𝒚𝒕𝒉𝒊𝒏𝒈, 𝑰 𝒂𝒎 𝒉𝒂𝒑𝒑𝒚 𝒕𝒐 𝒉𝒆𝒍𝒑, 𝒐𝒏𝒍𝒚 𝒊𝒇 𝒕𝒉𝒆 𝒃𝒂𝒍𝒍 𝒊𝒔 𝒊𝒏 𝒎𝒚 𝒄𝒐𝒖𝒓𝒕 !! 🍭  
+:writing_hand: 𝑨𝒔𝒌 𝒎𝒆 𝒂𝒃𝒐𝒖𝒕 𝒂𝒏𝒚𝒕𝒉𝒊𝒏𝒈, 𝑰 𝒂𝒎 𝒉𝒂𝒑𝒑𝒚 𝒕𝒐 𝒉𝒆𝒍𝒑, 𝒐𝒏𝒍𝒚 𝒊𝒇 𝒕𝒉𝒆 𝒃𝒂𝒍𝒍 𝒊𝒔 𝒊𝒏 𝒎𝒚 𝒄𝒐𝒖𝒓𝒕!! 🍭  
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-[![onetab.group](https://svg.bookmark.style/api?url=https://www.onetab.group&mode=light&style=horizontal)](https://onetab.group)
-[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
-[![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner)
+<img src="https://github.com/Dev-Shruti/Dev-Shruti/assets/142658407/4159a409-be3e-4746-b1d6-f90de835750e" width="70%">
+
+<img src="https://github.com/Dev-Shruti/Dev-Shruti/assets/142658407/4159a409-be3e-4746-b1d6-f90de835750e" width="70%">
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -63,6 +65,25 @@
 ![Railway](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
+## 𝗦𝘁𝗿𝗲𝗮𝗸𝘀
+
+ <span align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Shruti&" alt="kunalsonar007" />
+ </span>
+ 
+<br>
+
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=xiaoluoboding&show_icons=true&theme=dracula)
+  <img height=200 width="520px" align="left" 
+src="https://github-readme-stats.vercel.app/api?bg_color=0000&text_color=272727&hide_border=false&username=Dev-Shruti&show_icons=true&count_private=true&rank_icon=github">
+
+<p align="center">
+<img src="https://i.pinimg.com/originals/80/5d/92/805d9290bf80860153c6804cc0ed2d3a.gif" width="200px">
+</p>
+
+<br>
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
