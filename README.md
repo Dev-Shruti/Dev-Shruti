@@ -3,22 +3,22 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝘿𝙚𝙫 𝙎𝙝𝙧𝙪𝙩𝙞 
 
 <p align="left">
-<a href="">
+<a href="https://www.linkedin.com/in/kalyani-mali-400155287/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" >
  </a>
-<a href="">
+<a href="https://github.com/Dev-Shruti">
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
  </a>
- <a href="">
+ <a href="#">
 <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
  </a>
- <a href="">
+ <a href="https://linktr.ee/dev_kalyani">
  <img src="https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white">
  </a>
- <a href="">
+ <a href="https://twitter.com/KalyaniMali15">
 <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white">
  </a>
- <a href="">
+ <a href="mailto: malikalyani0715@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">
  </a>
 </p>
