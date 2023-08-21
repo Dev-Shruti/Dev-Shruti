@@ -34,9 +34,17 @@
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-<img src="https://github.com/Dev-Shruti/Dev-Shruti/assets/142658407/4159a409-be3e-4746-b1d6-f90de835750e" width="70%">
+<a href="https://kalyani-portfolio.vercel.app/">
+<img src="https://raw.githubusercontent.com/Dev-Shruti/Dev-Shruti/main/1.png" width="70%">
+</a>
 
-<img src="https://github.com/Dev-Shruti/Dev-Shruti/assets/142658407/4159a409-be3e-4746-b1d6-f90de835750e" width="70%">
+<a href="https://dribble-sign-up.vercel.app/">
+<img src="https://raw.githubusercontent.com/Dev-Shruti/Dev-Shruti/main/2.png" width="70%">
+</a>
+
+<a href="https://linktr.ee/dev_kalyani">
+<img src="https://raw.githubusercontent.com/Dev-Shruti/Dev-Shruti/main/3.png" width="70%">
+</a>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
