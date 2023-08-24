@@ -3,7 +3,7 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝘿𝙚𝙫 𝙎𝙝𝙧𝙪𝙩𝙞 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/kalyani-mali-400155287/">
+<a href="https://www.linkedin.com/in/dev-kalyani/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" >
  </a>
 <a href="https://github.com/Dev-Shruti">
